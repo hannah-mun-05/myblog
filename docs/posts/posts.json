@@ -1,8 +1,8 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to My Blog ;-)",
-    "description": "Welcome to our new blog, My Blog ;-). We hope you enjoy \nreading what we have to say!",
+    "path": "posts/2023-06-07-i-love-blogging/",
+    "title": "i love blogging",
+    "description": "A short description of the post.",
     "author": [
       {
         "name": "Nora Jones",
@@ -11,9 +11,26 @@
     ],
     "date": "2023-06-07",
     "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-06-07T17:41:48+07:00",
+    "input_file": "i-love-blogging.knit.md"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to My Blog ;-)",
+    "description": "Welcome to our new blog, My Blog ;-). We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Hannah",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-06-07",
+    "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2023-06-07T17:05:59+07:00",
-    "input_file": {}
+    "last_modified": "2023-06-07T17:44:03+07:00",
+    "input_file": "welcome.knit.md"
   }
 ]

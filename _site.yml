@@ -2,7 +2,7 @@ name: "."
 title: "My Blog ;-)"
 description: |
   My Blog ;-)
-output_dir: "docs"
+output_dir: "doc"
 navbar:
   right:
     - text: "Home"
